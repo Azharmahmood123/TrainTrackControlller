@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Train Track Controller</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_logout">Logout</string>
+    <string name="empty" />
+    <string name="lbl_back">Back</string>
+    <string name="title_devices">Devices</string>
+    <string name="lbl_scan">Scan</string>
+    <string name="lbl_paired_devices">Paired Devices</string>
+    <string name="lbl_available_devices">Available Devices</string>
+    <string name="lbl_no_device_found">No Bluetooth Device Found</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="lbl_connecting">Connecting…</string>
+</resources>
